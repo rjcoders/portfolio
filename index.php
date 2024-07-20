@@ -2,10 +2,6 @@
 <html lang="zxx">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
-  
-  <!-- https://www.remove.bg/upload  This is for Remove Images Background-->
-  <!-- https://www.iloveimg.com/ This is for Resize The Images And Crop The Images -->
-
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,7 +11,6 @@
   <link rel="shortcut icon" href="img/me.jpg" type="image/x-icon">
   <!-- bootstrap css -->
   <link rel="stylesheet" href="css/plugins/bootstrap.min.css"> 
-  /mn m, 
   <!-- font awesome css -->
   <link rel="stylesheet" href="css/plugins/font-awesome.min.css">
   <!-- swiper css -->
