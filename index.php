@@ -23,11 +23,11 @@
   <title>Website Designing Company in Agra | Web Development Services India | Web Development Company in Agra | App Development Company in Agra</title>
   <meta name="description" content="Rjcoder Company is an organization which deals in various domains such as web development, etc. We endeavor to be focused on the best operation and creative, innovative ideas around the world and provide high-quality service to the client.">
   <meta property="og:title"content="IT Company in Delhi Rjcoder | Best IT Company in Delhi NCR Rjcoder"/>
-	<meta property="og:type"content="website"/>
-	<meta property="og:url"content="https://rjcoders.github.io/portfolio/">
-	<meta property="og:description"content="Rjcoder Company is an organization which deals in various domains such as web development, etc. We endeavor to be focused on the best operation and creative, innovative ideas around the world and provide high-quality service to the client."/>
-	<meta property="og:image"content="https://rjcoders.github.io/portfolio/img/me.jpg"/>
-  
+  <meta property="og:type"content="website"/>
+  <meta property="og:url"content="https://rjcoders.github.io/portfolio/">
+  <meta property="og:description"content="Rjcoder Company is an organization which deals in various domains such as web development, etc. We endeavor to be focused on the best operation and creative, innovative ideas around the world and provide high-quality service to the client."/>
+  <meta property="og:image"content="https://rjcoders.github.io/portfolio/img/me.jpg"/>
+	
 </head>
 
 <body>
